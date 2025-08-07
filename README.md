@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrBaymax6
+- 👋 Hi, I’m David Fyne-Okorie
 - 👀 I’m interested in software development, and I want to become a software engineer someday
 - 🌱 I’m currently learning C, HTML, CSS, JavaScript, Python, and Java
 - 🎯 My goal is to get a summer internship
